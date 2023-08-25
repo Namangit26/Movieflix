@@ -22,7 +22,7 @@ const Herosection = ({title, imageUrl}) => {
                         </p>
                         <Link href="/movie">
                             <button className={mulish.className}>
-                                Explore Movies
+                                Explore more  Movies
                             </button>
                         </Link>
                     </div>
